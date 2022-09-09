@@ -1,0 +1,15 @@
+/Users/sofa_zoloto/Desktop/EXAM/FinalExam/Lesson/bin/Debug/net6.0/Lesson
+/Users/sofa_zoloto/Desktop/EXAM/FinalExam/Lesson/bin/Debug/net6.0/Lesson.deps.json
+/Users/sofa_zoloto/Desktop/EXAM/FinalExam/Lesson/bin/Debug/net6.0/Lesson.runtimeconfig.json
+/Users/sofa_zoloto/Desktop/EXAM/FinalExam/Lesson/bin/Debug/net6.0/Lesson.dll
+/Users/sofa_zoloto/Desktop/EXAM/FinalExam/Lesson/bin/Debug/net6.0/Lesson.pdb
+/Users/sofa_zoloto/Desktop/EXAM/FinalExam/Lesson/obj/Debug/net6.0/Lesson.csproj.AssemblyReference.cache
+/Users/sofa_zoloto/Desktop/EXAM/FinalExam/Lesson/obj/Debug/net6.0/Lesson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sofa_zoloto/Desktop/EXAM/FinalExam/Lesson/obj/Debug/net6.0/Lesson.AssemblyInfoInputs.cache
+/Users/sofa_zoloto/Desktop/EXAM/FinalExam/Lesson/obj/Debug/net6.0/Lesson.AssemblyInfo.cs
+/Users/sofa_zoloto/Desktop/EXAM/FinalExam/Lesson/obj/Debug/net6.0/Lesson.csproj.CoreCompileInputs.cache
+/Users/sofa_zoloto/Desktop/EXAM/FinalExam/Lesson/obj/Debug/net6.0/Lesson.dll
+/Users/sofa_zoloto/Desktop/EXAM/FinalExam/Lesson/obj/Debug/net6.0/refint/Lesson.dll
+/Users/sofa_zoloto/Desktop/EXAM/FinalExam/Lesson/obj/Debug/net6.0/Lesson.pdb
+/Users/sofa_zoloto/Desktop/EXAM/FinalExam/Lesson/obj/Debug/net6.0/Lesson.genruntimeconfig.cache
+/Users/sofa_zoloto/Desktop/EXAM/FinalExam/Lesson/obj/Debug/net6.0/ref/Lesson.dll
